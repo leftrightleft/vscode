@@ -8,7 +8,7 @@
 		"@vscode/vscode-languagedetection": "1.0.21",
 		"jschardet": "3.0.0",
 		"tas-client-umd": "0.1.4",
-		"vscode-oniguruma": "1.6.1",
+		"vscode-oniguruma": "1.6.2",
 		"vscode-textmate": "6.0.0",
 		"xterm": "4.19.0-beta.11",
 		"xterm-addon-search": "0.9.0-beta.12",
